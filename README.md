@@ -31,6 +31,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import uncapitalize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-uncapitalize@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/string-base-uncapitalize/tags). For example,
+
+```javascript
 import uncapitalize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-uncapitalize@v0.0.2-esm/index.mjs';
 ```
 
@@ -62,7 +67,7 @@ out = uncapitalize( 'Hidden Treasures' );
 <body>
 <script type="module">
 
-import uncapitalize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-uncapitalize@v0.0.2-esm/index.mjs';
+import uncapitalize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-uncapitalize@esm/index.mjs';
 
 var out = uncapitalize( 'Last man standing' );
 // returns 'last man standing'
