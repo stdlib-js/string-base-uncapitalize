@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/string-base-uncapitalize",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Uncapitalize the first character of a string.",
   "license": "Apache-2.0",
   "author": {
