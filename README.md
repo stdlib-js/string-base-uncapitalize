@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import uncapitalize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-uncapitalize@esm/index.mjs';
+import uncapitalize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-uncapitalize@v0.1.0-esm/index.mjs';
 ```
 
 #### uncapitalize( str )
@@ -73,7 +73,7 @@ out = uncapitalize( 'Hidden Treasures' );
 <body>
 <script type="module">
 
-import uncapitalize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-uncapitalize@esm/index.mjs';
+import uncapitalize from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-base-uncapitalize@v0.1.0-esm/index.mjs';
 
 var out = uncapitalize( 'Last man standing' );
 // returns 'last man standing'
