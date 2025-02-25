@@ -109,6 +109,12 @@ out = uncapitalize( 'Hidden Treasures' );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/string-base/capitalize`][@stdlib/string/base/capitalize]</span><span class="delimiter">: </span><span class="description">capitalize the first character in a string.</span>
+
 </section>
 
 <!-- /.related -->
@@ -184,6 +190,12 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/string-base-uncapitalize/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/string-base-uncapitalize/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/string/base/capitalize]: https://github.com/stdlib-js/string-base-capitalize
+
+<!-- </related-links> -->
 
 </section>
 
